@@ -1,0 +1,1 @@
+const Test:{id:string,msg:string} = {id:"1",msg:"Hello world!"}
